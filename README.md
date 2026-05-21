@@ -22,5 +22,5 @@ Dataset not included; download and place in `data/`.
 ## Key Findings
 - LLM associates price mentions with negativity, missing cases where falling prices are framed positively by writers
 - Mix class not reliably detectable with a small local model; inherently ambiguous sentiment
-- Some Arabic topic output garbled — known limitation of 3B parameter models on Arabic generation tasks
+- Some Arabic topic output garbled; known limitation of 3B parameter models on Arabic generation tasks
 - JSON parse errors occur when Arabic text contains inline commas that conflict with JSON structure; partly resolved
